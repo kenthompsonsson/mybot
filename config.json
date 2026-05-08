@@ -43,9 +43,9 @@
     }
   },
   "adminOnly": {
-    "enable": false,
+    "enable": true,
     "ignoreCommand": [
-      "100082395531611",
+      "61563187382399",
       "100015168369582"
     ]
   },
